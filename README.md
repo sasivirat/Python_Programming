@@ -41,7 +41,7 @@ This repository is designed to help beginners and intermediate programmers enhan
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sasivirat/python_programming.git
+   git clone https://github.com/sasivirat/Python_Programming.git
    ```
 2. Navigate to the project directory:
    ```bash
